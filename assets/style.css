@@ -1,0 +1,12 @@
+*{
+    /* background-image: url(".../images/background.jpg"); */
+    background-attachment: fixed;
+    background-position: right; 
+    background-size: cover;
+}
+
+body {
+    text-align: center;
+
+
+    }
